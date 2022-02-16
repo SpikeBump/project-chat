@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8105c76d.css",
+    "main.js": "/static/js/main.70889856.js",
+    "static/js/913.5847a8c6.chunk.js": "/static/js/913.5847a8c6.chunk.js",
+    "static/js/581.7eee7e86.chunk.js": "/static/js/581.7eee7e86.chunk.js",
+    "static/js/717.d3d7211a.chunk.js": "/static/js/717.d3d7211a.chunk.js",
+    "static/js/829.d49a7599.chunk.js": "/static/js/829.d49a7599.chunk.js",
+    "static/js/787.345a6413.chunk.js": "/static/js/787.345a6413.chunk.js",
+    "static/media/pexels-juan-pablo-serrano-arenas-1246437.jpg": "/static/media/pexels-juan-pablo-serrano-arenas-1246437.a8d0c4eca868caa871d1.jpg",
+    "static/media/EmojiOneColor.woff2": "/static/media/EmojiOneColor.90ee5fb894c8d349bc54.woff2",
+    "static/media/pexels-josh-sorenson-995301.jpg": "/static/media/pexels-josh-sorenson-995301.99c3c3e10d0348d4a8bd.jpg",
+    "static/media/pexels-kendall-hoopes-2261954.jpg": "/static/media/pexels-kendall-hoopes-2261954.af97bd522105cabfee71.jpg",
+    "static/media/pexels-brent-keane-1751731.jpg": "/static/media/pexels-brent-keane-1751731.f622659768c873a4bc35.jpg",
+    "static/media/NotoColorEmoji-flags.woff2": "/static/media/NotoColorEmoji-flags.148141acfb7ce6e4f383.woff2",
+    "static/media/stream.png": "/static/media/stream.408c159b57ecb8771484.png",
+    "static/media/str-chat__connection-error.svg": "/static/media/str-chat__connection-error.90385cff548e3b068187c19d5f25e675.svg",
+    "index.html": "/index.html",
+    "main.8105c76d.css.map": "/static/css/main.8105c76d.css.map",
+    "main.70889856.js.map": "/static/js/main.70889856.js.map",
+    "913.5847a8c6.chunk.js.map": "/static/js/913.5847a8c6.chunk.js.map",
+    "581.7eee7e86.chunk.js.map": "/static/js/581.7eee7e86.chunk.js.map",
+    "717.d3d7211a.chunk.js.map": "/static/js/717.d3d7211a.chunk.js.map",
+    "829.d49a7599.chunk.js.map": "/static/js/829.d49a7599.chunk.js.map",
+    "787.345a6413.chunk.js.map": "/static/js/787.345a6413.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8105c76d.css",
+    "static/js/main.70889856.js"
+  ]
+}
